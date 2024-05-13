@@ -1,6 +1,6 @@
 ## Welcome to M3nin0's Lab! 🧪
 
-Welcome to M3nin0's Lab, the creative playground of [Felipe](https://github.com/M3nin0), where personal projects and experimental ideas come to life! This space is dedicated to exploring new technologies, building innovative solutions, and sharing discoveries.
+Welcome to M3nin0's Lab, the creative playground of [Felipe](https://github.com/M3nin0), where personal projects and experimental ideas come to life! This space is dedicated to exploring new technologies, and sharing discoveries.
 
 ## 🌟 Inspirations
 
