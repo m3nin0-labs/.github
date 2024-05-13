@@ -24,4 +24,4 @@ In this organization, you'll find a diverse range of projects, each crafted with
 
 ## 🎖️ Acknowledgments
 
-A special thank you to all contributors and supporters who breathe life into Personal Lab, making this journey of exploration and creation possible.
+A special thank you to all contributors and supporters who breathe life into this lab, making this journey of exploration and creation possible.
