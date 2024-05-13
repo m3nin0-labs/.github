@@ -4,15 +4,15 @@ Welcome to M3nin0's Lab, the creative playground of [Felipe](https://github.com/
 
 ## 🌟 Inspirations
 
-The projects I created in this lab are often sparked by a blend of curiosity, challenges we encounter in our daily lives, and a desire to contribute to the community. Here are some of the key inspirations behind our work:
+The projects I created in this lab are often sparked by a blend of curiosity, challenges we encounter in our daily lives, and a desire to contribute to the community. Here are some of the key inspirations behind this work:
 
 **Open Source Community**
 
-The vibrant ecosystem of developers, designers, and thinkers who share their work openly inspires us to give back and engage with projects and ideas beyond our own;
+The vibrant ecosystem of developers, designers, and thinkers who share their work openly inspires me to give back and engage with projects and ideas beyond my own;
 
 **Software Craftsmanship**
 
-We admire the dedication to quality and the artisan approach to software development — where every line of code is crafted with care and precision. This philosophy motivates us to create software that is not only functional but beautifully designed and a joy to use.
+I admire the dedication to quality and the artisan approach to software development — where every line of code is crafted with care and precision. This philosophy motivates me to create software that is not only functional but beautifully designed and a joy to use.
 
 **Art and Culture**
 
